@@ -51,6 +51,11 @@ main > section{
     margin-top: 130px;
 }
 
+.section-title{
+    font-size: 2.80rem;
+    font-weight: 700;
+}
+
 /* Header Styles */
 
 
@@ -125,11 +130,6 @@ main > section{
 .our-features{
     margin-left: 130px;
     max-width: 530px;
-}
-
-.feature-title{
-    font-size: 2.80rem;
-    font-weight: 700;
 }
 
 #quick-list{
